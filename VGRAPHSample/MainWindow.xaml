@@ -1,0 +1,17 @@
+﻿<Window x:Class="VGRAPHSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VGRAPHSample"
+        xmlns:graph="clr-namespace:VGRAPH;assembly=VGRAPH"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Background="LightGray">
+        <graph:DrawingBoard Name="drawingBoard" Background="White"  Margin="0,62,0,-0.2" >
+            
+        </graph:DrawingBoard>
+        <Button x:Name="btnEdge" Click="btnEdge_Click"  Width="90" Height="30" Margin="50,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">draw edge</Button>
+        <Button Name="btnVertice" Click="btnVertice_Click"  Width="90" Height="30" Margin="145,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">draw vertice</Button>
+    </Grid>
+</Window>
