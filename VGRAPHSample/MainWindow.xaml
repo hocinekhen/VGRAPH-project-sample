@@ -13,5 +13,7 @@
         </graph:DrawingBoard>
         <Button x:Name="btnEdge" Click="btnEdge_Click"  Width="90" Height="30" Margin="50,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">draw edge</Button>
         <Button Name="btnVertice" Click="btnVertice_Click"  Width="90" Height="30" Margin="145,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">draw vertice</Button>
+        
+        <Button Name="btnStopDrawin" Click="btnStopDrawin_Click"  Width="90" Height="30" Margin="240,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">stop drawing</Button>
     </Grid>
 </Window>

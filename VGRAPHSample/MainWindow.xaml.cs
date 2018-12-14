@@ -51,6 +51,10 @@ namespace VGRAPHSample
             drawingBoard.StartDrawVertice();
         }
 
-
+        private void btnStopDrawin_Click(object sender, RoutedEventArgs e)
+        {
+            drawingBoard.StopDrawEdge();
+            drawingBoard.StopDrawVertice();
+        }
     }
 }
