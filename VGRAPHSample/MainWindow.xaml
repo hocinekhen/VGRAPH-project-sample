@@ -8,7 +8,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid Background="LightGray">
-        <graph:DrawingBoard Name="drawingBoard" Background="White"  Margin="0,62,0,-0.2" >
+        <graph:DrawingBoard Name="drawingBoard" Background="White"  Margin="0,62,0,-0.2" EdgeAdded="drawingBoard_EdgeAdded" VerticeAdded="drawingBoard_VerticeAdded">
             
         </graph:DrawingBoard>
         <Button x:Name="btnEdge" Click="btnEdge_Click"  Width="90" Height="30" Margin="50,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">draw edge</Button>

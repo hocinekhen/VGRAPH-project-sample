@@ -31,6 +31,8 @@ namespace VGRAPHSample
         {
             //this is the edge added when you click on drawingBoard
             Edge ed = e.edge;
+            //MessageBox.Show( ed.Text);
+            ed.Arrow.Visibility = Visibility.Collapsed;
         }
         private void drawingBoard_VerticeAdded(object sender, VerticeEventArgs e)
         {

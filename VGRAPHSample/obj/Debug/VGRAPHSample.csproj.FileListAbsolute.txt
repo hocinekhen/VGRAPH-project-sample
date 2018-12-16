@@ -13,3 +13,18 @@ c:\users\dell\documents\visual studio 2017\Projects\VGRAPHSample\VGRAPHSample\ob
 c:\users\dell\documents\visual studio 2017\Projects\VGRAPHSample\VGRAPHSample\obj\Debug\VGRAPHSample.exe
 c:\users\dell\documents\visual studio 2017\Projects\VGRAPHSample\VGRAPHSample\obj\Debug\VGRAPHSample.pdb
 c:\users\dell\documents\visual studio 2017\Projects\VGRAPHSample\VGRAPHSample\bin\Debug\VGRAPH.dll
+C:\Users\DELL\Documents\GitHub\VGRAPH-project-sample\VGRAPHSample\bin\Debug\VGRAPHSample.exe.config
+C:\Users\DELL\Documents\GitHub\VGRAPH-project-sample\VGRAPHSample\bin\Debug\VGRAPHSample.exe
+C:\Users\DELL\Documents\GitHub\VGRAPH-project-sample\VGRAPHSample\bin\Debug\VGRAPHSample.pdb
+C:\Users\DELL\Documents\GitHub\VGRAPH-project-sample\VGRAPHSample\bin\Debug\VGRAPH.dll
+C:\Users\DELL\Documents\GitHub\VGRAPH-project-sample\VGRAPHSample\obj\Debug\VGRAPHSample.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\VGRAPH-project-sample\VGRAPHSample\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Documents\GitHub\VGRAPH-project-sample\VGRAPHSample\obj\Debug\App.g.cs
+C:\Users\DELL\Documents\GitHub\VGRAPH-project-sample\VGRAPHSample\obj\Debug\VGRAPHSample_MarkupCompile.cache
+C:\Users\DELL\Documents\GitHub\VGRAPH-project-sample\VGRAPHSample\obj\Debug\VGRAPHSample_MarkupCompile.lref
+C:\Users\DELL\Documents\GitHub\VGRAPH-project-sample\VGRAPHSample\obj\Debug\MainWindow.baml
+C:\Users\DELL\Documents\GitHub\VGRAPH-project-sample\VGRAPHSample\obj\Debug\VGRAPHSample.g.resources
+C:\Users\DELL\Documents\GitHub\VGRAPH-project-sample\VGRAPHSample\obj\Debug\VGRAPHSample.Properties.Resources.resources
+C:\Users\DELL\Documents\GitHub\VGRAPH-project-sample\VGRAPHSample\obj\Debug\VGRAPHSample.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\GitHub\VGRAPH-project-sample\VGRAPHSample\obj\Debug\VGRAPHSample.exe
+C:\Users\DELL\Documents\GitHub\VGRAPH-project-sample\VGRAPHSample\obj\Debug\VGRAPHSample.pdb
